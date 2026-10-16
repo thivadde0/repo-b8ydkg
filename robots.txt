@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thivadde0.github.io/repo-b8ydkg/sitemap.xml
+# Atom Feed: https://thivadde0.github.io/repo-b8ydkg/feed.xml
